@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-odo;
 import TravelHeader from "./TravelHeader";
 import TravelBody from "./TravelBody";
 
@@ -31,7 +30,7 @@ export default function TravelList() {
 
   return (
     <header>
-      <h1>Tast List 2022</h1>
+      <h1>Travel Bucket List 2022</h1>
       <TravelHeader onSubmit={addTravel} />
       <br />
       <hr />

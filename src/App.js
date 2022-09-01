@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
+import TravelList from "./components/TravelList";
 
 function App() {
   return (
